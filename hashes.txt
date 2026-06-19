@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Cenizas 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T02:08:23.733412 | `v1` | `7e5e648228f4f6a24718bc067af0739f62a74dfba83f2e1abab00232d5f8d9f3` | `b47ce8001d79da981a4c7259af5031541a33d41c2675ff7cbb45b5978cce778c` | `2026-06-20_cenizas-en-mi-cama-v1.txt` |
+| 2026-06-20T02:59:12.853394 | `v2` | `3c09cbc1304f48dd9cbd39ca24c821f3137f0dc75a5b5eb9aacefd37ed15b3f7` | `92a54c06358714de2289679306dd5d6faa284de2382026baa240e5b9e297ee77` | `2026-06-20_cenizas-en-mi-cama-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
