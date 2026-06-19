@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cenizas en mi cama
+
+This log tracks the cryptographic history and versioning for the song **Cenizas en mi cama** (cenizas-en-mi-cama).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T02:08:23.733412 | `v1` | `7e5e648228f4f6a24718bc067af0739f62a74dfba83f2e1abab00232d5f8d9f3` | `b47ce8001d79da981a4c7259af5031541a33d41c2675ff7cbb45b5978cce778c` | `2026-06-20_cenizas-en-mi-cama-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
