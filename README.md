@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Cenizas en mi cama |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cenizas-en-mi-cama/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Cenizas en mi cama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-en-mi-cama/) |
+| **Get License** | [Obtain a Music License for Cenizas en mi cama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-en-mi-cama/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Cenizas en mi cama, el rastro de tu piel
-> Baby, todavía siento tu aroma de Chanel
-> Las luces de Barcelona arden por ti
-> Dime quién te puede amar así, shorty, only me
+> Cenizas en mi cama, tu nombre aún lo llama
+> La noche nos envuelve en llamas de cristal
+> Cenizas en mi cama, perfume que se inflama
+> No hay forma de olvidar nuestro ritual
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
