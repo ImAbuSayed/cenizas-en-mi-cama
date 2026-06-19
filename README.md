@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cenizas-en-mi-cama/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Cenizas en mi cama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-en-mi-cama/) |
+| **Get License** | [Music Rights & Licensing for Cenizas en mi cama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-en-mi-cama/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Cenizas en mi cama, el rastro de tu piel
+> Baby, todavía siento tu aroma de Chanel
+> Las luces de Barcelona arden por ti
+> Dime quién te puede amar así, shorty, only me
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
